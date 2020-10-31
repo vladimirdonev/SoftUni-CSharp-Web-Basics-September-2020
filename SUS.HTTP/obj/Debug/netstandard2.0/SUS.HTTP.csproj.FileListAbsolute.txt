@@ -1,0 +1,9 @@
+C:\Users\borim\OneDrive\Desktop\web projects\Exam\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.deps.json
+C:\Users\borim\OneDrive\Desktop\web projects\Exam\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.dll
+C:\Users\borim\OneDrive\Desktop\web projects\Exam\SUS.HTTP\bin\Debug\netstandard2.0\SUS.HTTP.pdb
+C:\Users\borim\OneDrive\Desktop\web projects\Exam\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.csprojAssemblyReference.cache
+C:\Users\borim\OneDrive\Desktop\web projects\Exam\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.AssemblyInfoInputs.cache
+C:\Users\borim\OneDrive\Desktop\web projects\Exam\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.AssemblyInfo.cs
+C:\Users\borim\OneDrive\Desktop\web projects\Exam\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.csproj.CoreCompileInputs.cache
+C:\Users\borim\OneDrive\Desktop\web projects\Exam\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.dll
+C:\Users\borim\OneDrive\Desktop\web projects\Exam\SUS.HTTP\obj\Debug\netstandard2.0\SUS.HTTP.pdb
